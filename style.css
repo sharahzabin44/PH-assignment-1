@@ -1,0 +1,36 @@
+body{
+	font-family: 'Playfair Display', serif;
+	margin: 0;
+}
+
+h1{
+	font-size: 50px;
+	/*border-left: 4px solid aquamarine;*/
+
+}
+
+.vertical-border{
+	border-left: 4px solid aquamarine;
+	margin-left: 2%;
+	
+	height: 120px;
+	margin-top: 50px;
+}
+
+.blue-color{
+    color: skyblue;
+}
+
+.flexible-container{
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.half-width{
+    width: 50%;
+    padding-left: 2%;
+
+}
+.half-width img{
+    width: 80%;
+}
